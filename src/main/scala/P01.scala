@@ -2,6 +2,7 @@ package org.p99.scala
 
 object P01 {
 
-  // TODO
+  def lastElement[A](list: List[A]) =
+    (list).last
 
 }
